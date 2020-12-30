@@ -1,7 +1,5 @@
 # hello-world
-First time creating repo
+First time creating 
 
-Hello fellow citizens of the planet earth !
+This is where i was supposed to make the changes ...duh a separate branch !
 
-This is a test...  one small step today, one giant leap for the future.
-Short description of what this is.
