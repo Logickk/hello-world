@@ -1,4 +1,5 @@
 # hello-world
-First time creating repo
+First time creating 
 
-Thisis where i was supposed to make the changes ...duh a separate branch !
+This is where i was supposed to make the changes ...duh a separate branch !
+
